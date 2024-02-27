@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+# Define the file path
+file_path="/tmp/my_process"
+
+# Infinite loop to write to the file
+while true; do
+	echo "I am alive!" >> "$file_path"
+	sleep 2
+done
+
