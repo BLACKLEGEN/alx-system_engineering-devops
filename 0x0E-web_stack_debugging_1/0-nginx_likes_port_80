@@ -1,4 +1,5 @@
-nx listening on port 80                                                                                                                          
+#!/usr/bin/env bash
+# Script to configure Nginx to listen on port 80                                                                                                 
 # Go to sites-enabled folder for Nginx                                                                                                                    
 cd /etc/nginx/sites-enabled/ || exit;                                                                                                                             
 # Delete the default file                                                                                                                               
