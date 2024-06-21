@@ -1,5 +1,3 @@
-#!/usr/bin/bash/env bash
-#start apache2 in designated  container
-
-echo "ServerName localhost">> /etc/apache2.config
-service apache2 start
+#!/usr/bin/env bash
+# script to initialize server apache
+/etc/init.d/apache2 start
