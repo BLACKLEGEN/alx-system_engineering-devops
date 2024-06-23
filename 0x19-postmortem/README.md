@@ -1,5 +1,9 @@
 # Postmortem: Outage of WordPress Website on LAMP Stack
 
+![Outage Meme](https://i.imgflip.com/5sftje.jpg)
+*When your website decides to take a nap during prime hours...*
+
+
 ## Issue Summary
 
 **Duration:**  
@@ -69,3 +73,10 @@ This script was applied to correct the file extensions, and the Apache service w
    - Conduct training sessions for engineers on best practices in configuration management.
 
 By addressing these areas, we aim to prevent similar outages in the future and ensure a more robust and resilient web stack.
+
+
+---
+
+![Debugging Diagram](https://miro.medium.com/v2/resize:fit:700/format:webp/1*cXHgV1m17EkX-WThmJHIiQ.png)
+*Diagram illustrating the debugging process with `strace` and Puppet*
+
