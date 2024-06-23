@@ -80,6 +80,6 @@ By addressing these areas, we aim to prevent similar outages in the future and e
 
 ---
 
-![Debugging Diagram](https://miro.medium.com/v2/resize:fit:700/format:webp/1*cXHgV1m17EkX-WThmJHIiQ.png)
+![Debugging Diagram](https://access.redhat.com/webassets/avalon/d/Red_Hat_Enterprise_Linux-8-Configuring_and_managing_high_availability_clusters-en-US/images/1329e69b8957bc6e39af37981d99dbb3/291627-haserver_cluster4.png?extIdCarryOver=true&sc_cid=701f2000001Css5AAC)
 *Diagram illustrating the debugging process with `strace` and Puppet*
 
