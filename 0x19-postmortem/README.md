@@ -10,8 +10,8 @@
 ## Issue Summary
 
 **Duration:**  
-- Start: June 21, 2024, 2:00 PM UTC
-- End: June 21, 2024, 4:00 PM UTC
+- Start: June 21, 2024, 2:00 PM CAT
+- End: June 21, 2024, 4:00 PM CAT
 
 **Impact:**  
 - The WordPress website was down, returning a 500 Internal Server Error.
