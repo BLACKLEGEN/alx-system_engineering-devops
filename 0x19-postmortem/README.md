@@ -1,6 +1,9 @@
 # Postmortem: Outage of WordPress Website on LAMP Stack
 
 ![Outage Meme](https://i.imgflip.com/5sftje.jpg)
+
+
+
 *When your website decides to take a nap during prime hours...*
 
 
